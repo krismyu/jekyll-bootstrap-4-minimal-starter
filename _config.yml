@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: Kristine M. Yu
+email: krisyu@linguist.umass.edu
 author:
 description:
 url:
@@ -9,3 +9,8 @@ url:
 permalink: :title/
 sass:
   sass_dir: css
+
+# Social icons
+show_social_icons: true
+github_username: krismyu
+twitter_username: linguist_krisyu
